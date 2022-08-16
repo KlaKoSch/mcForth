@@ -7,6 +7,7 @@ mcForth Simulator and image of mcForth for virtual VF32 processor - see mcForth.
 - mcf32d.mcf : Image of direct threaded mcForth
 
 Assembler and disassembler are available as a direct loadable version for mcForth using real memory address.
+- RISC-V Opcodes (V1.0 - 20210808).pdf : Complete opcode list of RISC-V RV32IMC
 - rv32imc_sim.f : Simulator
 - rv32imc_asm.f : Assembler
 - rv32imc_dasm.f : Disassembler
